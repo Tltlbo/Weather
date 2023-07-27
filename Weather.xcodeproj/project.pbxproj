@@ -14,6 +14,7 @@
 		4E6AEB362A72B19B00E79A13 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4E6AEB352A72B19B00E79A13 /* Assets.xcassets */; };
 		4E6AEB392A72B19B00E79A13 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4E6AEB372A72B19B00E79A13 /* LaunchScreen.storyboard */; };
 		4E6AEB412A72B59900E79A13 /* WeatherInformation.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6AEB402A72B59900E79A13 /* WeatherInformation.swift */; };
+		4E6AEB432A72BD8D00E79A13 /* ErrorMessage.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E6AEB422A72BD8D00E79A13 /* ErrorMessage.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		4E6AEB382A72B19B00E79A13 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		4E6AEB3A2A72B19B00E79A13 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		4E6AEB402A72B59900E79A13 /* WeatherInformation.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WeatherInformation.swift; sourceTree = "<group>"; };
+		4E6AEB422A72BD8D00E79A13 /* ErrorMessage.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ErrorMessage.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				4E6AEB372A72B19B00E79A13 /* LaunchScreen.storyboard */,
 				4E6AEB3A2A72B19B00E79A13 /* Info.plist */,
 				4E6AEB402A72B59900E79A13 /* WeatherInformation.swift */,
+				4E6AEB422A72BD8D00E79A13 /* ErrorMessage.swift */,
 			);
 			path = Weather;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				4E6AEB312A72B19900E79A13 /* ViewController.swift in Sources */,
 				4E6AEB412A72B59900E79A13 /* WeatherInformation.swift in Sources */,
+				4E6AEB432A72BD8D00E79A13 /* ErrorMessage.swift in Sources */,
 				4E6AEB2D2A72B19900E79A13 /* AppDelegate.swift in Sources */,
 				4E6AEB2F2A72B19900E79A13 /* SceneDelegate.swift in Sources */,
 			);
